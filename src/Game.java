@@ -7,10 +7,7 @@ import javax.swing.JOptionPane;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/**
- *
- * @author Jahid Haider
- */
+
 public class Game extends javax.swing.JFrame {
 
     //Game m=new Game();
@@ -483,7 +480,7 @@ public class Game extends javax.swing.JFrame {
 
         /* Create and display the /**
          * Creates new form Game
-         */form  */
+         */ form */
                  java.awt.EventQueue.invokeLater(new Runnable() {
                     public void run() {
                         new Game().setVisible(true);

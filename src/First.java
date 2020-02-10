@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Jahid Haider
- */
+
 public class First extends javax.swing.JFrame {
 
     /**
